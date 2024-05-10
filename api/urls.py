@@ -12,3 +12,5 @@ urlpatterns = [
     path('',include(router.urls)),
 ]
   
+
+#companies/{companyid}/employees ---for list tyo company ko all employees
